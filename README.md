@@ -7,7 +7,7 @@
 ## SQL project to analyze online music store data
 
 Analyzed a music store dataset using SQL to understand sales performance, top-selling tracks, and customer trends.
-This project is for beginners and will teach you how to analyze the music playlist database. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
+In this project, I analyzed sales, customer behavior, and product trends from a music store dataset to uncover actionable insights. Using tools like Python (pandas, matplotlib, seaborn) and SQL,
 
 
 ## 🛠️ Tech Stack
