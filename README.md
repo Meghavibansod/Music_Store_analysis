@@ -18,8 +18,8 @@ To run this project on your machine you need to install any SQL-supported DBMS t
 
 2 Create tables using the schema diagram provided below.
 
-
 3 Import csv files provided in the dataset folder.
+
 Note: If you are using PostgreSQL then restore the backup file of the database and save yourself some time.
 
 ## 🛠️ Tech Stack
@@ -39,6 +39,7 @@ Note: If you are using PostgreSQL then restore the backup file of the database a
 
 ## Schema- Music Store Database  
 ![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
+
 
 ## Credits
 
