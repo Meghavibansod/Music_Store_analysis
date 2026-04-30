@@ -36,13 +36,16 @@ Schema- Music Store Database
 ![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
 
 Credits
+
 Throughout the development of this project, I have sought inspiration from a pivotal video source: https://youtu.be/VFIuIjswMKM
 
 License
+
 You can use this dataset to build your own project and practice your SQL skills.
 
 
 Questions Answered
+
 The following are a few of the questions that are answered in the project (check out analysis.sql file for the rest):
 
  * What are the most popular genres of music?
@@ -53,6 +56,7 @@ The following are a few of the questions that are answered in the project (check
 
    
 Results
+
 The results of the project are as follows:
 
  * The most popular genre of music is "Rock".
@@ -63,4 +67,5 @@ The results of the project are as follows:
 
 
 Conclusion
+
 The project was successful in answering the set of questions about the store's business performance. The results of the project can be used by the store to make decisions about its marketing and product offerings.
