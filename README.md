@@ -24,7 +24,7 @@ Note: If you are using PostgreSQL then restore the backup file of the database a
 
 ## 🛠️ Tech Stack
 - SQL  
-- Python (optional for visualization)  
+- Python 
 - Pandas  
 - Matplotlib  
 
